@@ -121,15 +121,3 @@
 ---
 
 This report offers a comprehensive analysis of **BMW’s financial performance** based on profitability, risk, and asset efficiency, providing actionable insights and strategic recommendations for sustained growth and profitability management.
-
----
-
-### **Placeholders for Visuals/Graphs**
-1. **Profitability Dashboard/Graph**: Insert visual showing **Net Profit Margin** and trends.
-2. **Risk & Leverage Dashboard/Graph**: Insert visual showing **ROA** and **Net Profit Margin** by debt risk.
-3. **Growth & Efficiency Dashboard/Graph**: Insert visual showing **Asset Turnover** and trends.
-4. **Revenue & Net Income Dynamics Dashboard/Graph**: Insert visual showing **Revenue** and **Net Income** trends.
-
----
-
-Let me know if you need further adjustments or if you’d like to add more specific details!
