@@ -12,7 +12,8 @@
   ![image](https://github.com/user-attachments/assets/c4252011-44e8-4c8b-8071-d1945462f955)
 
 ### Risk & Leverage Analysis
-  ![image](https://github.com/user-attachments/assets/5390ccef-daad-4d05-bcfb-df5a9b0d2048)
+  ![image](https://github.com/user-attachments/assets/d465e890-8182-479e-9cb4-a2b0c68cd13f)
+
 
 ### Growth & Efficiency Analysis
   ![image](https://github.com/user-attachments/assets/a7a2a417-f58b-4ce2-8c99-0f94cb80d3b5)
