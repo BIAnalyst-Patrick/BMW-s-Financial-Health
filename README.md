@@ -8,6 +8,16 @@
 - **Action Taken**: Using the BMW financial data, I performed an in-depth analysis of profitability, debt risk, asset utilization, and growth trends over time. The analysis was conducted through visualizations, KPIs, and ratios derived from the available data.
 - **Result**: The analysis highlighted strong recovery in profitability and growth, despite some fluctuations in asset turnover and debt risk, showcasing a **59.09% increase in net income** and a **7.94% drop in revenue** from 2017 to 2024.
 
+### Profitability Analysis  
+  ![image](https://github.com/user-attachments/assets/c4252011-44e8-4c8b-8071-d1945462f955)
+
+### Risk & Leverage Analysis
+  ![image](https://github.com/user-attachments/assets/5390ccef-daad-4d05-bcfb-df5a9b0d2048)
+
+### Growth & Efficiency Analysis
+  ![image](https://github.com/user-attachments/assets/a7a2a417-f58b-4ce2-8c99-0f94cb80d3b5)
+
+
 ---
 
 ## 🎯 **Problem Statement**
@@ -71,26 +81,30 @@
 - **Insight 1: Profitability Unleashed**: 
   - BMW’s **Net Profit Margin** peaked at **14.18%** in Q1 2024, reflecting a strong recovery in profitability after a dip in **2022** (7.12%).
   - The overall **average profit margin** stood at **11.51%**, showcasing solid profitability over the period.
-  
-  **[Insert Profitability Dashboard/Graph Here]**
+  ![image](https://github.com/user-attachments/assets/217dd30c-2285-49f9-b284-988fbce4465c)
+
+  **Figure 4 Profitability**
 
 - **Insight 2: The Impact of Debt Risk**: 
   - **Low Debt Risk** saw a **2.29% ROA** with a **10.26% Net Profit Margin**. 
   - **Medium Debt Risk** resulted in a decrease in ROA to **1.74%** but a still robust **9.06% Net Profit Margin**.
   - The **High Debt Risk** scenario yielded an impressive **10.95% Net Profit Margin**, but ROA remained below optimal levels (**1.23%**), indicating a balance between leveraging debt and efficiency.
-  
-  **[Insert Risk & Leverage Dashboard/Graph Here]**
+  ![image](https://github.com/user-attachments/assets/7450ec67-640e-41ee-8457-3b2323f345d2)
+
+  ** Figure 5 Risk & Leverage **
 
 - **Insight 3: Asset Utilization Trends**: 
-  - Asset turnover peaked at **0.46** in **2020**, reflecting high asset utilization, but stabilized at **0.30-0.40** in the following years, showing consistent, though less efficient, asset use.
+  - Asset turnover peaked at **0.54** in **2020**, reflecting high asset utilization, but stabilized at **0.30-0.40** in the following years, showing consistent, though less efficient, asset use.
+  ![image](https://github.com/user-attachments/assets/eb9edeb9-715e-431f-a1a6-5d0622df824e)
 
-  **[Insert Growth & Efficiency Dashboard/Graph Here]**
+  **Figure 6 Asset Turnover**
 
 - **Insight 4: Revenue & Net Income Dynamics**:
   - Revenue showed a sharp **decline of 41.27%** in **2018**, followed by a steady recovery with a **7.94% overall decrease** from **2017 to 2024**.
   - Net income increased significantly by **59.09%**, indicating improved cost control and efficient profitability management.
+  ![image](https://github.com/user-attachments/assets/5ba3ffc1-3f72-4ade-a874-42795fe12d06)
 
-  **[Insert Revenue & Net Income Dynamics Dashboard/Graph Here]**
+  **Insert Revenue & Net Income Dynamics **
 
 ---
 
@@ -103,7 +117,7 @@
 - **Expected Impact**: 
   1. Improved **asset turnover** could lead to a **5-10% increase in revenue**.
   2. Effective **debt management** could enhance profitability and reduce the risks associated with financial leverage.
-- **Owner**: 
+- **BMW Team**: 
   1. **Finance Department**: Oversee debt management and profitability improvement.
   2. **Operations Team**: Enhance asset utilization and productivity.
 
