@@ -104,7 +104,7 @@
   - Net income increased significantly by **59.09%**, indicating improved cost control and efficient profitability management.
   ![image](https://github.com/user-attachments/assets/5ba3ffc1-3f72-4ade-a874-42795fe12d06)
 
-  **Insert Revenue & Net Income Dynamics **
+  ** Fgure 7 Revenue & Net Income Dynamics **
 
 ---
 
