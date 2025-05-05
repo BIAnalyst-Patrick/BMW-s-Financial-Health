@@ -73,7 +73,6 @@
 - **Tools**: 
   1. **Power BI** for data visualization and dashboard creation.
   2. **Excel** for data cleaning and calculations.
-  3. **SQL** for extracting and querying financial datasets from internal sources.
 
 ---
 
