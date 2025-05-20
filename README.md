@@ -9,14 +9,18 @@
 - **Result**: The analysis highlighted strong recovery in profitability and growth, despite some fluctuations in asset turnover and debt risk, showcasing a **59.09% increase in net income** and a **7.94% drop in revenue** from 2017 to 2024.
 
 ### Profitability Analysis  
-  ![image](https://github.com/user-attachments/assets/c4252011-44e8-4c8b-8071-d1945462f955)
+  ![image](https://github.com/user-attachments/assets/5d8f832d-d0ce-46a8-8239-5c009347d20a)
+
 
 ### Risk & Leverage Analysis
-  ![image](https://github.com/user-attachments/assets/d465e890-8182-479e-9cb4-a2b0c68cd13f)
+  ![image](https://github.com/user-attachments/assets/8adee0bd-548f-43f6-aced-828bdda6708c)
+
 
 
 ### Growth & Efficiency Analysis
-  ![image](https://github.com/user-attachments/assets/a7a2a417-f58b-4ce2-8c99-0f94cb80d3b5)
+  ![image](https://github.com/user-attachments/assets/9d20fcef-91e9-4466-8b7e-2d15706a9408)
+
+
 
 
 ---
